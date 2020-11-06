@@ -3,7 +3,7 @@
 ### Contact Me
 
 <a href="https://twitter.com/AMushonnip"><img src="https://img.icons8.com/color/50/000000/twitter-circled.png" width="48"></a>
-<a href="https://www.linkedin.com/in/aditya-rifqy-fauzan-7509a614a/"><img src="https://img.icons8.com/fluent/48/000000/instagram.png" width="48"></a>
+<a href="https://www.linkedin.com/in/aditya-rifqy-fauzan-7509a614a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="48"></a>
 
 
 <!--
